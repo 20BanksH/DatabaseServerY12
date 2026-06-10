@@ -18,7 +18,8 @@ INSERT INTO Person
         ('The', 'Bank', 'banker', 'secret', 4)
         ('Jonathan', 'Broster', 'brosterj', 'DNDisfun123', 2),
         ('Gregoire', 'Tiptonius', 'tiptong', '2tothepower4is8', 3),
-        ('Banny', 'Doster', 'dosterb', 'FLYINGSQUIRREL', 1);
+        ('Banny', 'Doster', 'dosterb', 'FLYINGSQUIRREL', 1), 
+        ('Dave', 'Smith', 'smithd', 'passwordsareboring', 5);
 
 CREATE TABLE Payment (
     PaymentID INTEGER PRIMARY KEY,
